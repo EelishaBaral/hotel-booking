@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Monda&display=swap");
+
+.split-para {
+  display: block;
+  margin: 10px;
+  font-family: "Monda", sans-serif;
+}
+
+.split-para span {
+  display: block;
+  float: right;
+  font-family: "Monda", sans-serif;
+  margin-right: 180px !important;
+  color: burlywood;
+}
+
+.row h2 {
+  position: absolute;
+  color: white;
+  font-size: 15px;
+  font-family: "Monda", sans-serif;
+  top: 30px;
+  left: 30px;
+  width: 70%;
+}
+
+.img {
+  box-shadow: 9px 9px 5px 0px rgba(0, 0, 0, 0.2);
+  padding: 5px;
+}
+
+h6 {
+  font-family: "Monda", sans-serif;
+}
+
+a {
+  color: black;
+  font-size: 15px;
+}
+
+.src {
+  height: 290px;
+  width: 348px;
+  width: 100%;
+}
+
+.card {
+  overflow: hidden;
+}
